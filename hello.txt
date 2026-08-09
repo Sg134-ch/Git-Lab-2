@@ -1,1 +1,2 @@
-Hello Git Lab 2 
+Hello Git Lab 2
+Learning Version Control with Git and GitHub
